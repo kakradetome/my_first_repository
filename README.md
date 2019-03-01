@@ -1,0 +1,1 @@
+A project to get acquainted with Git and Github
