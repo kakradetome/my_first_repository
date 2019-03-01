@@ -1,1 +1,1 @@
-**A project to get acquainted with Git and Github**
+Getting conversant with Git and Github
